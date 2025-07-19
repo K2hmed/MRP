@@ -42,7 +42,7 @@ Includes:
 - Baseline modeling with Logistic Regression, Random Forest, and XGBoost
 - Hyperparameter tuning via GridSearchCV
 - Feature subset experiment (clinical + demographic features only)
-- Manual 5-Fold Cross-Validation
+- Stratified 5-Fold Cross-Validation
 
 ### 3. `Final_Model_Training_Experiments.py`
 **Purpose**:  
