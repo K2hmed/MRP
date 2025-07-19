@@ -284,6 +284,7 @@ print("Mean ROC AUC: {:.4f} ± {:.4f}".format(xgb_scores.mean(), xgb_scores.std(
 
 
 # Visual Analysis
+# Values below are hardcoded based on actual experiment output to avoid re-running large models
 
 import matplotlib.pyplot as plt
 import numpy as np
